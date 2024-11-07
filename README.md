@@ -3,7 +3,8 @@ ReactCreator allows frontend developers to easily create react project with just
 
 Steps
 1. run the program
-2. A prompt will popup asking for the prompt
-3. All done
+2. A prompt will popup asking for name project
+3. Input the desired name
+4. All done ! just like that it will install a new react project 
 
 
